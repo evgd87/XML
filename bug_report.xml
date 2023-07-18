@@ -1,1 +1,14 @@
 
+<?xml version="1.0" encoding="windows-1251"?>
+<body>	
+	<Bug_report_ID> 1 </Bug_report_ID>
+	<Title> When the cart contains one item, it is not possible to add a second item via the add to cart button on a product page </Title> 
+	<Steps_to_reproduce>
+        	<Step_1> add one item to cart </Step_1>
+	        <Step_2> go to product abc via the search bar </Step_2>
+        	<Step_3> add new item to cart via 'add to cart' button </Step_3>
+	        <Step_4> go to cart </Step_4>
+	</Steps_to_reproduce>
+	<Expected_Result> The cart should contain 2 items </Expected_Result>
+	<Actual_Result> The cart contains only 1 itemt </Actual_Result>
+</body>
